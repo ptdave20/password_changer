@@ -1,0 +1,7 @@
+﻿This application will take a username and randomize the password, and email it to the select email address. You must define the password size, then the username, followed by any emails you wish to send it to. This will use the current logged in user for authentication to active directory.
+
+
+Written by David Marchbanks
+Requires Microsoft.Net Framework 4.0
+Requires Microsoft Exchange WebServices
+
